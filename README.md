@@ -11,7 +11,6 @@ Our fictiious product company sold new and used used instructors! If you're luck
 ##### Installation
 ```
 $ git clone git@github.com:nss-evening-cohort-06/company-x-eastside-and-down.git
-$
 ```
 
 [Homepage](https://i.imgur.com/w0yCYCk.png)<br>
