@@ -16,3 +16,10 @@ $
 
 [Homepage](https://i.imgur.com/w0yCYCk.png)<br>
 [Products](https://i.imgur.com/I91XuLg.png)
+
+## Contributors
+
+[Gina Antonini](https://github.com/GinaAntonini)<br>
+[Gib Bowden](https://github.com/gib-bowden)<br>
+[Ronnie Hickman](https://github.com/rmhickman)
+
